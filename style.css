@@ -53,3 +53,42 @@
     width: 10%;
     
 }
+.btn-contact button{
+    font-size: 24px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: white;
+}
+/* hero-section */
+.banner{
+ text-align: center;
+ padding: 100px 0;
+
+}
+.hero-heading{
+    font-size: 60px;
+    margin-top: 30px;
+    line-height: 70px;
+}
+.gradeyan{
+    text-transform: capitalize;
+    border-radius: 10px;
+    color: #fcfcfc;
+    background: linear-gradient(90deg, rgba(130, 5, 240, 1) 0%, rgba(57, 143, 91, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+.hero-paragraph{
+    font-size: 25px;
+    line-height: 35px;
+    margin-top: 30px;
+
+}
+.btn{
+    font-size: 25px;
+    padding: 10px 25px;
+    background-color: darkblue;
+    border-radius: 10px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 10px;
+}

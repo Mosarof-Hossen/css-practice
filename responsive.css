@@ -1,0 +1,11 @@
+@media screen and (max-width:1060px){
+    .menu-bar ul li a{
+        color: red;
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:700){
+    .menu-bar {
+       display: none;
+    }
+}
