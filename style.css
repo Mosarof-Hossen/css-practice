@@ -93,11 +93,24 @@
     margin-left: 10px;
 }
 /* hero-section-end */
+
+/* hero-banner */
+.hero-banner{
+    background-image: url(./image/WhatsApp\ Image\ 2025-04-05\ at\ 21.56.13_24fef999.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    opacity: 0.8;
+}
 /* demo-section-start */
+.demo-section{
+    background: linear-gradient(90deg, rgba(130, 5, 240, 0.39) 0%, rgba(57, 143, 91, 0.171) 50%, rgba(237, 221, 83, 0.199) 100%);
+}
 .demo{
     text-align: center;
     padding: 50px 0;
-    background: linear-gradient(90deg, rgba(130, 5, 240, 0.39) 0%, rgba(57, 143, 91, 0.171) 50%, rgba(237, 221, 83, 0.199) 100%);
+   
 }
 .demo-heading-3{
     font-size: 24px;
