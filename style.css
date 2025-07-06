@@ -92,3 +92,43 @@
     margin-top: 30px;
     margin-left: 10px;
 }
+/* hero-section-end */
+/* demo-section-start */
+.demo{
+    text-align: center;
+    padding: 50px 0;
+    background: linear-gradient(90deg, rgba(130, 5, 240, 0.39) 0%, rgba(57, 143, 91, 0.171) 50%, rgba(237, 221, 83, 0.199) 100%);
+}
+.demo-heading-3{
+    font-size: 24px;
+    color: #2ba18f;
+    line-height: 40px;
+}
+.demo-heading-1{
+    font-size: 40px;
+    line-height: 50px;
+
+}
+.demo-paragraph{
+    font-size: 21px;
+    width: 1100px;
+    margin: auto;
+    line-height: 25px;
+    margin-top: 10px;
+}
+/* demo-crad */
+.demo-crad{
+    display: flex;
+    justify-content: center;
+}
+.demo1{
+    background-color: #ffffff;
+    width: 150px;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 0 30px;
+    margin-top: 40px;
+}
+.demo1 img{
+    width: 100%;
+}
